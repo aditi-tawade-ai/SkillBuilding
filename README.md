@@ -280,6 +280,16 @@ I am currently building my technical skills through consistent practice, machine
 
 ---
 
+## 👨‍🏫 Guide
+
+**Yameen Hakim Sir**
+
+All the learning content, practice exercises, concepts, and implementations shared in this repository are carried out under the guidance and mentorship of my respected Sir.
+
+Grateful for his valuable guidance, support, and encouragement throughout this learning journey. 🙏
+
+---
+
 ## ⭐ Goal
 
 > **Learn consistently. Practice daily. Build projects. Keep improving.**
