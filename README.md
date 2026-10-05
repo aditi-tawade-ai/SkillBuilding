@@ -25,7 +25,7 @@ I follow a **learn → practice → implement → revise** approach and regularl
 
 This repository represents my **continuous learning journey in Data Science and AI**.
 
-## 🧑‍🏫 Guidance
+## 🧑‍🏫 Guide
 
 **Yameen Hakim Sir**
 
